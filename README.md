@@ -1,4 +1,8 @@
 # Resistencias
+
+Luis Ignacio Salgado
+201621780
+
 Calculadora de resistencias de 4 a 6 bandas
 
 
